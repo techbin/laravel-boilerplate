@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/techbin/laravel-boliterplate.svg?branch=master)](https://travis-ci.org/techbin/laravel-boliterplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Laravel bolier plate with phpunit, jshint and codesniffer
+# Laravel boiler plate with phpUnit, jsHint, phpCodeSniffer and Travis CI.
 
 ## what does this do?
 It will spin up a virtual machine inside travis and perform the following operations before we run any tests (via the before_script).
